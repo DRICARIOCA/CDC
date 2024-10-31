@@ -3,7 +3,7 @@
 CDC PARA INICIANTES
 
 ## 📒 Descrição
-FLASH CARDS SOBRE COM DIREITOS E DEVERES DO CONSUMIDOR BRASILEIRO, CONFORME O CÓDIGO DE DEFESA DO CONSUMIDOR, LEI 8.078/90 E ALTERAÇÕES.
+FLASH CARDS informando direitos e deveres do Consumidor Brasileiro, conforme o Código de Defesa do Consumidor, Lei 8.078/90 e alterações.
 
 ## 🤖 Tecnologias Utilizadas
 IA Generativa ChatGPT para roteirização;
